@@ -1,0 +1,6 @@
+
+# package folder
+/env
+
+# cred file
+.env
