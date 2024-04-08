@@ -52,6 +52,7 @@ if __name__ == "__main__":
     ).fetchdf()
     print(f"time: {round((time.time() - cur_time), 2)}s")
     print(agg_view)
+    print()
 
     # Daily Sales
     cur_time = time.time()
